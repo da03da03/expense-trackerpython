@@ -18,10 +18,10 @@ python main.py
 ## Sample Output
 
 ### Adding Expenses
-![Add Expense](Screenshot_20260212_010019_Pydroid 3.jpg)
+![Add Expense]()
 
 ### Viewing Expenses
-![View Expenses](Screenshot_20260212_010019_Pydroid 3.jpg)
+![View Expenses]()
 
 ### Total Spent
-![Total Spent](Screenshot_20260212_010019_Pydroid 3.jpg)
+![Total Spent]()
